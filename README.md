@@ -20,5 +20,5 @@ Para traduzir com o thcrap/To translate with thcrap
 2 - Abra a pasta extraída/Open the extracted folder
 3 - Execute o arquivo "thcrap.exe"/Run the file "thcrap.exe"
 
-Acho que a partir daqui vocês) podem) seguir em frente só, qualquer dúvida só chamar!
+Acho que a partir daqui você(s) pode(m) seguir em frente só, qualquer dúvida só chamar!
 I think from here you can move on alone, any questions just call!
